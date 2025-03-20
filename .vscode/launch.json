@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open main.html",
-            "file": "/Users/alexfechete/Documents/Visual Studio 2022/Programare-Web-L1/main.html"
+            "name": "Open paine.html",
+            "file": "c:\\Users\\mihai\\OneDrive\\Documente\\VS Code\\Programare Web L1\\paine.html"
         }
     ]
 }
