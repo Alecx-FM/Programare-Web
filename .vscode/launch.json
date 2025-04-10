@@ -7,8 +7,9 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open Blog.html",
-            "file": "/Users/alexfechete/Documents/Visual Studio 2022/Programare-Web/Lab3/Biciclete.html"
+            "name": "Launch Chrome with Biciclete.html",
+            "file": "${workspaceFolder}/Lab3/Biciclete.html",
+            "webRoot": "${workspaceFolder}"
         }
     ]
 }
